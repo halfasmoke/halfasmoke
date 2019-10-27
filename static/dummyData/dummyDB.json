@@ -1,0 +1,425 @@
+{
+  "resources": [
+    {
+      "id": 11,
+      "badgeID": "batch-27",
+      "name": "Thang Pham",
+      "email": "praslar@gmail.com",
+      "projects": []
+    },
+    {
+      "id": 12,
+      "badgeID": "batch-27",
+      "name": "Quan Vo",
+      "email": "vnmquan@gmail.com",
+      "projects": []
+    },
+    {
+      "project": [],
+      "badgeID": "151621",
+      "name": "testforboss",
+      "email": "wannabeBruce@gmail.com",
+      "id": 13
+    },
+    {
+      "project": [],
+      "badgeID": "151621",
+      "name": "Trung Huynh",
+      "email": "asdzxzczxc@zxczx.com",
+      "id": 14
+    }
+  ],
+  "exceptions": [
+    {
+      "title": "frickthisman",
+      "date": [
+        1567616400000,
+        1567789200000
+      ],
+      "id": 17
+    },
+    {
+      "title": "Independence day",
+      "date": [
+        1567357200000,
+        1567443600000
+      ],
+      "id": 19
+    },
+    {
+      "title": "Hom nay nghi di nhe ",
+      "date": [
+        1568826000000,
+        1568998800000
+      ],
+      "id": 20
+    },
+    {
+      "title": "Day of 14",
+      "date": [
+        1568394000000,
+        1568480400000
+      ],
+      "id": 21
+    }
+  ],
+  "projects": [
+    {
+      "name": "Coffee Cat ",
+      "tasks": [
+        {
+          "id": 1,
+          "label": "Phan tich va Thiet ke va Design",
+          "start": 1567011600000,
+          "duration": 518400000,
+          "type": "project",
+          "progress": 100,
+          "style": {},
+          "collapsed": false,
+          "user": [],
+          "x": 30.282298314285395,
+          "y": 6,
+          "width": 180.69378988571236,
+          "height": 25,
+          "mouseOver": false,
+          "dependentOn": [],
+          "parentId": null,
+          "children": [],
+          "allChildren": [],
+          "parents": [],
+          "parent": null,
+          "estimateDuration": 259200000,
+          "effort": 100,
+          "startTime": 1567011600000,
+          "endTime": 1567530000000,
+          "dependencyLines": []
+        },
+        {
+          "id": 5,
+          "label": "Slap like now",
+          "start": 1568739600000,
+          "duration": 518400000,
+          "type": "project",
+          "progress": 100,
+          "style": {},
+          "collapsed": false,
+          "user": [],
+          "x": 635.9282645999933,
+          "y": 43,
+          "width": 180.69378988571236,
+          "height": 25,
+          "mouseOver": false,
+          "dependentOn": [],
+          "parentId": null,
+          "children": [
+            6,
+            7
+          ],
+          "allChildren": [
+            6,
+            7
+          ],
+          "parents": [],
+          "parent": null,
+          "estimateDuration": 172800000,
+          "effort": 100,
+          "startTime": 1568739600000,
+          "endTime": 1569258000000,
+          "dependencyLines": []
+        },
+        {
+          "id": 6,
+          "label": "Frick this",
+          "user": [
+            11
+          ],
+          "start": 1568739600000,
+          "parentId": 5,
+          "duration": 518400000,
+          "type": "task",
+          "progress": 100,
+          "style": {},
+          "collapsed": false,
+          "x": 635.9282645999933,
+          "y": 80,
+          "width": 180.69378988571236,
+          "height": 25,
+          "mouseOver": false,
+          "dependentOn": [],
+          "children": [],
+          "allChildren": [],
+          "parents": [
+            5
+          ],
+          "parent": 5,
+          "estimateDuration": 172800000,
+          "effort": 100,
+          "startTime": 1568739600000,
+          "endTime": 1569258000000,
+          "dependencyLines": []
+        },
+        {
+          "id": 7,
+          "label": "Bass is bass, slap the bass!!!",
+          "user": [
+            12
+          ],
+          "start": 1568739600000,
+          "parentId": 5,
+          "duration": 518400000,
+          "type": "task",
+          "progress": 100,
+          "style": {},
+          "collapsed": false,
+          "x": 635.9282645999933,
+          "y": 117,
+          "width": 180.69378988571236,
+          "height": 25,
+          "mouseOver": false,
+          "dependentOn": [],
+          "children": [],
+          "allChildren": [],
+          "parents": [
+            5
+          ],
+          "parent": 5,
+          "estimateDuration": 172800000,
+          "effort": 100,
+          "startTime": 1568739600000,
+          "endTime": 1569258000000,
+          "dependencyLines": []
+        }
+      ],
+      "updateDate": 1569983870173,
+      "users": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "id": 2,
+      "highlighted": true
+    },
+    {
+      "name": "batch-27",
+      "tasks": [
+        {
+          "id": 1569939132822,
+          "label": "Test test alo alo",
+          "start": 1569862800000,
+          "duration": 345600000,
+          "type": "project",
+          "progress": 100,
+          "style": {},
+          "collapsed": false,
+          "user": "",
+          "x": 30.282298314285395,
+          "y": 6,
+          "width": 120.12919325714158,
+          "height": 25,
+          "mouseOver": false,
+          "dependentOn": [],
+          "parentId": null,
+          "children": [
+            1569939417257
+          ],
+          "allChildren": [
+            1569939417257
+          ],
+          "parents": [],
+          "parent": null,
+          "estimateDuration": 345600000,
+          "effort": 100,
+          "startTime": 1569862800000,
+          "endTime": 0,
+          "dependencyLines": []
+        },
+        {
+          "id": 1569939417257,
+          "parentId": 1569939132822,
+          "label": "5asdas",
+          "start": 1570381200000,
+          "duration": 86400000,
+          "type": "milestone",
+          "progress": 100,
+          "style": {},
+          "collapsed": false,
+          "user": [],
+          "x": 211.97608819999775,
+          "y": 43,
+          "width": 29.282298314285395,
+          "height": 25,
+          "mouseOver": false,
+          "dependentOn": [],
+          "children": [],
+          "allChildren": [],
+          "parents": [
+            1569939132822
+          ],
+          "parent": 1569939132822,
+          "estimateDuration": 86400000,
+          "effort": 100,
+          "startTime": 1570381200000,
+          "endTime": 1570467600000,
+          "dependencyLines": []
+        }
+      ],
+      "updateDate": 1569939446884,
+      "users": [
+        12,
+        11
+      ],
+      "id": 3,
+      "highlighted": true
+    },
+    {
+      "highlighted": false,
+      "name": "My road to Thai Land",
+      "startDate": 1569862800000,
+      "updateDate": 1569862800000,
+      "tasks": [],
+      "users": [],
+      "effort": "",
+      "id": 4
+    },
+    {
+      "name": "MMpop",
+      "tasks": [
+        {
+          "id": 1569984036973,
+          "label": "task",
+          "start": 1572800400000,
+          "duration": 1036800000,
+          "type": "project",
+          "progress": 100,
+          "style": {},
+          "collapsed": false,
+          "user": "",
+          "x": 30.282298314285395,
+          "y": 6,
+          "width": 362.3875797714247,
+          "height": 25,
+          "mouseOver": false,
+          "dependentOn": [],
+          "parentId": null,
+          "children": [
+            1569984347706,
+            1569984352305
+          ],
+          "allChildren": [
+            1569984347706,
+            1569984352305,
+            1569999452872
+          ],
+          "parents": [],
+          "parent": null,
+          "estimateDuration": 1036800000,
+          "effort": 100,
+          "startTime": 1572800400000,
+          "endTime": 1573837200000,
+          "dependencyLines": [],
+          "usersId": []
+        },
+        {
+          "parentId": 1569984036973,
+          "id": 1569984347706,
+          "label": "Save function",
+          "start": 1572800400000,
+          "duration": 950400000,
+          "type": "task",
+          "parents": [
+            1569984036973
+          ],
+          "progress": 100,
+          "style": {},
+          "collapsed": false,
+          "user": [],
+          "x": 30.282298314285395,
+          "y": 43,
+          "width": 332.1052814571393,
+          "height": 25,
+          "mouseOver": false,
+          "dependentOn": [],
+          "children": [],
+          "allChildren": [],
+          "parent": 1569984036973,
+          "estimateDuration": 777600000,
+          "effort": 100,
+          "startTime": 1572800400000,
+          "endTime": 1573750800000,
+          "dependencyLines": [],
+          "usersId": []
+        },
+        {
+          "parentId": 1569984036973,
+          "id": 1569984352305,
+          "label": "Save function",
+          "start": 1572800400000,
+          "duration": 259200000,
+          "type": "task",
+          "parents": [
+            1569984036973
+          ],
+          "progress": 100,
+          "style": {},
+          "collapsed": false,
+          "user": [],
+          "x": 30.282298314285395,
+          "y": 80,
+          "width": 89.84689494285618,
+          "height": 25,
+          "mouseOver": false,
+          "dependentOn": [],
+          "children": [
+            1569999452872
+          ],
+          "allChildren": [
+            1569999452872
+          ],
+          "parent": 1569984036973,
+          "estimateDuration": 259200000,
+          "effort": 100,
+          "startTime": 1572800400000,
+          "endTime": 1573059600000,
+          "dependencyLines": [],
+          "usersId": []
+        },
+        {
+          "id": 1569999452872,
+          "parentId": 1569984352305,
+          "label": "thas",
+          "start": 1573750800000,
+          "duration": 86400000,
+          "type": "milestone",
+          "progress": 100,
+          "style": {},
+          "collapsed": false,
+          "user": [],
+          "x": 363.3875797714247,
+          "y": 117,
+          "width": 29.282298314285395,
+          "height": 25,
+          "mouseOver": false,
+          "dependentOn": [],
+          "children": [],
+          "allChildren": [],
+          "parents": [
+            1569984036973,
+            1569984352305
+          ],
+          "parent": 1569984352305,
+          "estimateDuration": 86400000,
+          "effort": 100,
+          "startTime": 1573750800000,
+          "endTime": 1573837200000,
+          "dependencyLines": [],
+          "usersId": []
+        }
+      ],
+      "updateDate": 1570528796798,
+      "users": [],
+      "id": 5,
+      "highlighted": false
+    }
+  ]
+}
