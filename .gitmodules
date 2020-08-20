@@ -1,0 +1,3 @@
+[submodule "theme/tokiwa"]
+	path = theme/tokiwa
+	url = https://github.com/heyeshuang/hugo-theme-tokiwa.git
