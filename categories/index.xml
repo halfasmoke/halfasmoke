@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Half a smoke</title>
-    <link>https://halfasmoke.com/categories/</link>
+    <link>https://halfasmoke.github.io/categories/</link>
     <description>Recent content in Categories on Half a smoke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us vi</language>
-    <copyright>halfasmoke</copyright><atom:link href="https://halfasmoke.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>halfasmoke</copyright><atom:link href="https://halfasmoke.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
