@@ -1,6 +1,0 @@
-[submodule "theme/tokiwa"]
-	path = theme/tokiwa
-	url = https://github.com/heyeshuang/hugo-theme-tokiwa.git
-[submodule "halfasmoke/theme/minimalist"]
-	path = halfasmoke/theme/minimalist
-	url = https://github.com/tailwindtoolbox/Minimalist-Blog.git
