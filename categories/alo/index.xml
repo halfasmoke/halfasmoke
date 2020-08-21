@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alo on Half a smoke</title>
+    <link>https://halfasmoke.onrender.com/categories/alo/</link>
+    <description>Recent content in alo on Half a smoke</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us vi</language>
+    <copyright>halfasmoke</copyright>
+    <lastBuildDate>Thu, 20 Aug 2020 15:59:24 +0700</lastBuildDate><atom:link href="https://halfasmoke.onrender.com/categories/alo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Write second</title>
+      <link>https://halfasmoke.onrender.com/posts/test1/</link>
+      <pubDate>Thu, 20 Aug 2020 15:59:24 +0700</pubDate>
+      
+      <guid>https://halfasmoke.onrender.com/posts/test1/</guid>
+      <description>this is an example</description>
+    </item>
+    
+  </channel>
+</rss>

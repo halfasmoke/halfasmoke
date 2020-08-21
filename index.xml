@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us vi</language>
     <copyright>halfasmoke</copyright>
-    <lastBuildDate>Thu, 20 Aug 2020 17:32:13 +0700</lastBuildDate><atom:link href="https://halfasmoke.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Aug 2020 16:57:46 +0700</lastBuildDate><atom:link href="https://halfasmoke.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Loren</title>
+      <link>https://halfasmoke.onrender.com/posts/loren/</link>
+      <pubDate>Fri, 21 Aug 2020 16:57:46 +0700</pubDate>
+      
+      <guid>https://halfasmoke.onrender.com/posts/loren/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id maximus dui, nec finibus sem. Aliquam blandit, ante ac luctus aliquet, lacus est pulvinar odio, sit amet ullamcorper ex leo at justo. Praesent tincidunt odio sed metus dictum feugiat. Nam vitae leo iaculis libero venenatis fermentum. Ut non nibh non nibh viverra convallis pretium ut ante. Nunc lorem purus, faucibus ac ornare non, consectetur in massa. Vivamus vel leo sed augue imperdiet convallis nec sed ligula.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://halfasmoke.onrender.com/about/</link>
+      <pubDate>Fri, 21 Aug 2020 11:28:38 +0700</pubDate>
+      
+      <guid>https://halfasmoke.onrender.com/about/</guid>
+      <description>so empty here</description>
+    </item>
+    
     <item>
       <title>what is this</title>
       <link>https://halfasmoke.onrender.com/posts/test2/</link>
@@ -18,15 +36,12 @@
     </item>
     
     <item>
-      <title>Write first</title>
+      <title>Write second</title>
       <link>https://halfasmoke.onrender.com/posts/test1/</link>
       <pubDate>Thu, 20 Aug 2020 15:59:24 +0700</pubDate>
       
       <guid>https://halfasmoke.onrender.com/posts/test1/</guid>
-      <description>this is an example
-hé lô
-tôi là ai
-who am I</description>
+      <description>this is an example</description>
     </item>
     
   </channel>
