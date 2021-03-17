@@ -1064,6 +1064,7 @@
   .post-list .post-item .meta {
     display: block;
     margin-right: 16px;
+    margin-top: auto;
     min-width: 100px;
     color: #666;
     font-size: 14px;
@@ -1242,7 +1243,7 @@
     margin-right: 16px;
     min-width: 100px;
     color: #666;
-    font-size: 14px;
+    font-size: 17px;
   }
   @media (min-width: 480px) {
     #archive .post-list .post-item {
